@@ -23,3 +23,8 @@ Diversifiable risk can be eliminated if we invest in non-correlated assets.
 
 ## Strategy
 Indexes such as the S&P 500 mitigate portfolio risk by spreading investments over different industries thereby diversifying the risk of the portfolio.
+
+## Formula
+```
+diversifiable risk = portfolio variance - weighted annual variances
+```
