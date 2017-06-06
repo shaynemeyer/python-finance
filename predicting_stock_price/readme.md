@@ -32,3 +32,11 @@ Calculate average, standard deviation and variance of daily returns in the histo
 
 
 ### Volatility
+Random variable
+
+![](random_variable.png)
+
+
+![](standard_normal_distribution.png)
+
+![](stock_monte_carlo.png)
