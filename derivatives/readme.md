@@ -70,6 +70,28 @@ The most widely used swap contract are interest rate swaps. One party agrees to 
 ![](interestrateswap.png)
 
 ### Options
+An option contract enables its owner to buy or sell an underlying asset at the given price, also known as strike price.
 
+Option contracts can be exercised until a certain date (Maturity Date)
+
+
+#### Types of options
+* Call Options (Option to buy an asset) 
+* Put Options (Option to sell an asset)
+
+
+#### European Options 
+Exercised at maturity
+
+##### Example:
+* European call option
+* Current stock price = $120
+* Option strike price = $125
+* Maturity = 6 months
+
+When the maturity date comes in 6 months the question is whether the current stock price is higher than the strike price ($125), if it is then you can buy the stock at the strike price $125.
+
+#### American Options 
+Exercised at any time
 
 
