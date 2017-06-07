@@ -39,6 +39,7 @@ print(p)
 print(p.shape)
 print("#"*20)
 # Use the following formula to forecast the price of a stock option.
+# C = np.exp(-r * T) * np.sum(p) / iterations
 print("#"*20)
 print("Sum p:")
 print(np.sum(p))
